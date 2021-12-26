@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-HTTP-Protcool-Client-Server",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

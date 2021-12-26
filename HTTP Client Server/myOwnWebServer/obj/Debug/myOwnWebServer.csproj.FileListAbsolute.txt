@@ -1,0 +1,20 @@
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\Users\Mohammad Javad\source\repos\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.AssemblyReference.cache
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\Users\psala\Downloads\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.exe
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.AssemblyReference.cache
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.exe
+C:\localWebSite\WDD\WDD-A06-Done\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
