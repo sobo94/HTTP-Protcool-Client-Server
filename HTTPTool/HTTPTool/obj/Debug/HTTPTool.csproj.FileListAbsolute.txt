@@ -1,0 +1,9 @@
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\bin\Debug\HTTPTool.exe
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\bin\Debug\HTTPTool.pdb
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.csproj.AssemblyReference.cache
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.Form1.resources
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.Properties.Resources.resources
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.csproj.GenerateResource.cache
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.csproj.CoreCompileInputs.cache
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.exe
+C:\localWebSite\WDD\M-09\Content\M09-HTTPProtocol\Resources\M-09\M-10\HTTPTool\HTTPTool\obj\Debug\HTTPTool.pdb
