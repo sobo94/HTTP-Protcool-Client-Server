@@ -28,16 +28,19 @@ HTTP Server is a Console Application written in C#. It takes in 3 command line a
 ### Example of running from command line
 myOwnWebServer –webRoot=C:\localWebSite –webIP=192.168.100.23 –webPort=5300
 
-###Functionality
+### Functionality
 
-The server support the returned content types of plain text (specifically the .txt extension),
+- The server support the returned content types of plain text (specifically the .txt extension),
 HTML files (and their various extensions), JPG images (and their various extensions) and GIF.
 
-The server Supports the following HTTP Status Codes.
+- The server Supports the following HTTP Status Codes.
 
-| HTTP Status Code  | Explaination                                                                                |
-| :---------------: | :-----------------------------------------------------------------------------------------: |
-|      200          |     Status Ok     | 
-|      400          |     which will be set to the IP address of the server                                       |   
-|      404          |     which will be set to the Port number the server will be listening on                    | 
-415
+| HTTP Status Code  | Explaination                        |                                                       |
+| :---------------: | :---------------------------------: |
+|      200          |     Status Ok                       | 
+|      400          |     Bad error request               |   
+|      404          |     File Not Found                  | 
+|      405          |     Method Not Allowed              |   
+|      415          |     Unsupported Media Type          | 
+
+- Application Logs HTTP Request and Response into a log file. Contained in the Bin Folder.
