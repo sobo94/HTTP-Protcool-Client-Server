@@ -35,7 +35,7 @@ HTML files (and their various extensions), JPG images (and their various extensi
 
 - The server Supports the following HTTP Status Codes.
 
-| HTTP Status Code  | Explaination                        |                                                       |
+| HTTP Status Code  |       Explaination                  |
 | :---------------: | :---------------------------------: |
 |      200          |     Status Ok                       | 
 |      400          |     Bad error request               |   
