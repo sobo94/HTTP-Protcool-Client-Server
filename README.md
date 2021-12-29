@@ -13,7 +13,9 @@ Content Lenght.
 
 ![03](https://user-images.githubusercontent.com/16788406/147657296-00362032-1790-4b8c-b4f2-131ca83a4fc8.PNG)
 
+Note: The HTTP Tool is primarily a testing tool to display the various HTTP Code which the Server can render. 
+
 ---
-# HTTP Server 
+## HTTP Server 
 HTTP Server is a Console Application written in C#. It takes in 3 command line argument's.
 Port number, 
