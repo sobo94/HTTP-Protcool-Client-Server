@@ -25,7 +25,7 @@ HTTP Server is a Console Application written in C#. It takes in 3 command line a
 |      WebIp        |     which will be set to the IP address of the server                                       |   
 |      WebPort      |     which will be set to the Port number the server will be listening on                    | 
 
-### Example of running from command line
+Example:
 myOwnWebServer –webRoot=C:\localWebSite –webIP=192.168.100.23 –webPort=5300
 
 ### Functionality
